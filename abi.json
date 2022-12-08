@@ -1,0 +1,1 @@
+[{"stateMutability": "nonpayable", "type": "function", "name": "register", "inputs": [{"name": "name", "type": "bytes"}, {"name": "owner", "type": "address"}], "outputs": []}, {"stateMutability": "view", "type": "function", "name": "lookup", "inputs": [{"name": "name", "type": "bytes"}], "outputs": [{"name": "", "type": "address"}]}]
