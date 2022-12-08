@@ -1,7 +1,7 @@
 from web3 import Web3
 
 provider_rpc = {
-    "development": "https://goerli.infura.io/v3/3653806d884b401498e7a07f3f325d2e"
+    "development": "https://goerli.infura.io/v3/3622806d884b401498e7a07f3f325d2e"
 }
 web3 = Web3(Web3.HTTPProvider(provider_rpc["development"]))  # Change to correct network
 
